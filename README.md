@@ -1,11 +1,10 @@
 CSE214-Algorithm 
 
-Lab Task 01:
+week 03:
 
-    -Linear search
-    -Bubble sort
+    -Linear search implementation,analysis,time complexity
+    -Bubble Sort implementation,analysis,time complexity
+    -Lab Manual(week 03) practise problem
+    -Hacker Rank Problem
     
-Lab Task 02:
 
-    -Selection sort 
-    -Insertion sort
