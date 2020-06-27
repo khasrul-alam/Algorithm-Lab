@@ -14,12 +14,12 @@ int main()
     {
         int x=ara[i];
         j=i;
-        while(j>0 && ara[j-1]>ara[j])
+        while(j>0 && ara[j-1]>x)
         {
-            swap(ara[j],ara[j-1]);
+            ara[j]=ara[j-1];
             j--;
         }
-
+        ara[j]=x;
     }
 
 
