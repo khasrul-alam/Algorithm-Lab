@@ -1,7 +1,6 @@
-/*Suppose you want to pay back someone with 16 taka and you have unlimited 
-supply of 1 taka, 2 taka, 8 taka and 12 taka notes. Your target is to use 
-the minimum number of notes to payback the said amount of money. That means
- how many notes you chose, write the program.*/
+/*Suppose you want to pay back someone with 16 taka and you have unlimited  supply of 1 taka, 2 taka, 8 taka and 12 taka notes. Your target is to use 
+the minimum number of notes to payback the said amount of money. That means how many notes you chose, write the program.*/
+
 #include<bits/stdc++.h>
 using namespace std;
 void coin_change(int coin[],int totalCoin,int change)
@@ -13,7 +12,7 @@ void coin_change(int coin[],int totalCoin,int change)
         minimum=change+1;
         for(int j=0; j<totalCoin; j++)
         {
-            if(coin[j]<=change)
+            if(coin[j]<=i)
             {
                 minimum=min(minimum,m[i-coin[j]]+1);
             }
