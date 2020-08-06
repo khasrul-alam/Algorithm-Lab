@@ -1,5 +1,10 @@
 CSE214-Algorithm 
 
+Assignment:
+
+    -Assinment 01
+
+
 week 03:
 
     -Linear search
