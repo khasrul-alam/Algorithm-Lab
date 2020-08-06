@@ -26,3 +26,11 @@ week 03:
     -Coin Change (greedy & dynamic approach)
     -Knapsack problem (greedy & dynamic approach)
     
+week 07:
+    
+    (Mid term examination)
+    
+week 08:
+
+    -
+    -
