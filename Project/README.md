@@ -1,4 +1,4 @@
-Algorithm Project:
+    Algorithm Project:
 
 This repository contains codes from algorithm lab project
 
