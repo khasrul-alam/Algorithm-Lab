@@ -1,10 +1,14 @@
 CSE214-Algorithm 
-          -----------
+          
 
 Assignment:
 
     -Assinment 01
+    -Assignment 02
 
+project:
+          
+     -Statical Tool Box
 
 week 03:
 
