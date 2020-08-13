@@ -32,5 +32,6 @@ week 07:
     
 week 08:
 
-    -
-    -
+    -Binpacking
+    -Longest Common Subsequence
+    -Leongest Increasing Subsequene
