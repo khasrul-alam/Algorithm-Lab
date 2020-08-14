@@ -1,21 +1,6 @@
 CSE214-Algorithm 
           
-
-Assignment:
-
-    -Assinment 01
-    -Assignment 02
-    
-Presentation:
-                
-    -Use below link to view presentation video
-    
-    https://drive.google.com/file/d/1UGCpxk2oPXzzJpskPioiWHflSOh9UFb8/view?usp=sharing
-
-project:
           
-     -Statical Tool Box
-
 week 03:
 
     -Linear search
@@ -50,3 +35,20 @@ week 08:
 week 09:
 
     -Depth First Search 
+    
+    
+Assignment:
+
+    -Assinment 01
+    -Assignment 02
+    
+Presentation:
+                
+    -Use below link to view presentation video
+    
+    https://drive.google.com/file/d/1UGCpxk2oPXzzJpskPioiWHflSOh9UFb8/view?usp=sharing
+
+project:
+          
+     -Statical Tool Box
+
