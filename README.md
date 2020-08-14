@@ -46,11 +46,10 @@ Presentation:
                 
 [Click here to open presentation video](https://drive.google.com/file/d/1UGCpxk2oPXzzJpskPioiWHflSOh9UFb8/view?usp=sharing)
 
+
 project:
           
      -Statical Tool Box
      
      
-     [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-     
-[I'm an inline-style link](https://www.google.com)
+ 
