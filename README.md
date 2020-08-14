@@ -44,9 +44,7 @@ Assignment:
     
 Presentation:
                 
-    -Use below link to view presentation video
-    
-    https://drive.google.com/file/d/1UGCpxk2oPXzzJpskPioiWHflSOh9UFb8/view?usp=sharing
+    [Click here to show presentation video](https://drive.google.com/file/d/1UGCpxk2oPXzzJpskPioiWHflSOh9UFb8/view?usp=sharing)
 
 project:
           
