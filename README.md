@@ -40,3 +40,7 @@ week 08:
     -Binpacking
     -Longest Common Subsequence
     -Leongest Increasing Subsequene
+
+week 09:
+
+    -Depth First Search 
