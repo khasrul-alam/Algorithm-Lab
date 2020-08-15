@@ -39,21 +39,21 @@ week 09:
     
 Assignment:
 
-[-Assinment 01](https://github.com/khasrul-alam/Algorithm-Lab/blob/master/Assignment/CSE214-O14-191-15-12180-Assignment-01.pdf.pdf)
+[   -Assinment 01](https://github.com/khasrul-alam/Algorithm-Lab/blob/master/Assignment/CSE214-O14-191-15-12180-Assignment-01.pdf.pdf)
 
-[-Assignment 02](https://github.com/khasrul-alam/Algorithm-Lab/blob/master/Assignment/CSE214-O14-191-15-12180-Assignment-02.pdf)
+[   -Assignment 02](https://github.com/khasrul-alam/Algorithm-Lab/blob/master/Assignment/CSE214-O14-191-15-12180-Assignment-02.pdf)
     
    
 Presentation:
                 
-[Click here to open presentation video](https://drive.google.com/file/d/1UGCpxk2oPXzzJpskPioiWHflSOh9UFb8/view?usp=sharing)
+[   -Video link](https://drive.google.com/file/d/1UGCpxk2oPXzzJpskPioiWHflSOh9UFb8/view?usp=sharing)
 
 
 project:
           
-[Full & Final code](https://github.com/khasrul-alam/Algorithm-Lab/blob/master/Project/staticalToolBox4.0.cpp)
+[   -Full & Final code](https://github.com/khasrul-alam/Algorithm-Lab/blob/master/Project/staticalToolBox4.0.cpp)
 
-[Primary used function](https://github.com/khasrul-alam/Algorithm-Lab/tree/master/Project)
+[   -Primarily used function](https://github.com/khasrul-alam/Algorithm-Lab/tree/master/Project)
      
      
 
