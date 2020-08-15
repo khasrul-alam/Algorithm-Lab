@@ -35,7 +35,10 @@ week 08:
 week 09:
 
     -Depth First Search 
-    
+
+Problem Set 1 [Theory]:
+
+    -Task 1-8
     
 Assignment:
 
