@@ -38,7 +38,7 @@ week 09:
 
 Problem Set 1 [Theory]:
 
-    -Task 1-8
+[-Task 1-8](https://github.com/khasrul-alam/Algorithm-Lab/tree/master/Problem%20Set%201%20%5BTheory%5D)
     
 Assignment:
 
