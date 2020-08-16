@@ -17,7 +17,7 @@
     -Merge sort
     -Quick sort
    
-### week 06:
+### [week 06:](https://github.com/khasrul-alam/Algorithm-Lab/tree/master/week%2006)
  
     -Coin Change (greedy & dynamic approach)
     -Knapsack problem (greedy & dynamic approach)
