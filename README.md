@@ -49,7 +49,7 @@
    
 ### [Presentation:](https://github.com/khasrul-alam/Algorithm-Lab/tree/master/presentation)
                 
-[   -Video link](https://drive.google.com/file/d/1UGCpxk2oPXzzJpskPioiWHflSOh9UFb8/view?usp=sharing)
+[   -Video link](https://drive.google.com/file/d/1BfkUh48vrzE5PoqyJfc_VQc5hPzjmZV6/view)
 
 
 ### [project:](https://github.com/khasrul-alam/Algorithm-Lab/tree/master/Project)
